@@ -7,7 +7,11 @@ import { createVuetify } from 'vuetify'
 const myCustomLightTheme = {
   dark: false,
   colors: {
-    primary: '#1a73e8 ',
+    primary: '#1a73e8',
+    purple: '#A11CB4',
+    secondary: '#0000008a',
+    success: '#238636',
+    danger: '#f44336'
   },
 }
 
